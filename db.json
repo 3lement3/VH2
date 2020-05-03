@@ -3,53 +3,51 @@
     {
       "id": 1,
       "firstName": "Надежда",
-      "lastName" : "Корвидовна",
+      "lastName": "Корвидовна",
       "img": "https://raw.githubusercontent.com/3lement3/VH2/master/src/patients/img_00.png",
       "mail": "nk@rt.ru"
     },
     {
       "id": 2,
       "firstName": "Жора",
-      "lastName" : "Корвидол",
+      "lastName": "Корвидол",
       "img": "https://raw.githubusercontent.com/3lement3/VH2/master/src/patients/img_0.png",
       "mail": "tk@rt.ru"
     },
     {
       "id": 3,
       "firstName": "Мила",
-      "lastName" : "Корвидовна",
+      "lastName": "Корвидовна",
       "img": "https://raw.githubusercontent.com/3lement3/VH2/master/src/patients/img_1.png",
       "mail": "мk@rt.ru"
     },
     {
       "id": 4,
       "firstName": "Юлия",
-      "lastName" : "Корвидовна",
+      "lastName": "Корвидовна",
       "img": "https://raw.githubusercontent.com/3lement3/VH2/master/src/patients/img_2.png",
       "mail": "uk@rt.ru"
     },
     {
       "id": 5,
       "firstName": "Том",
-      "lastName" : "Корвидон",
+      "lastName": "Корвидон",
       "img": "https://raw.githubusercontent.com/3lement3/VH2/master/src/patients/img_3.png",
       "mail": "tk@rt.ru"
     },
     {
       "id": 6,
       "firstName": "Грегорий",
-      "lastName" : "Корвидон",
+      "lastName": "Корвидон",
       "img": "https://raw.githubusercontent.com/3lement3/VH2/master/src/patients/img_4.png",
       "mail": "gk@rt.ru"
     },
-    { {
+    {
       "id": 6,
       "firstName": "Грегорий",
-      "lastName" : "Корвидон",
+      "lastName": "Корвидон",
       "img": "https://raw.githubusercontent.com/3lement3/VH2/master/src/patients/img_5.png",
       "mail": "gk@rt.ru"
-    },
-
     }
   ],
   "cardAnalysis": [
