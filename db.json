@@ -5,49 +5,98 @@
       "firstName": "Надежда",
       "lastName": "Корвидовна",
       "img": "https://raw.githubusercontent.com/3lement3/VH2/master/src/patients/img_00.png",
-      "mail": "nk@rt.ru"
+      "mail": "nk@rt.ru",
+      "age": "35 лет",
+      "lastVisit": "Последний раз на приеме была 11 апреля в 18:46",
+      "polis": "Полис №1111-2222-3333-4445",
+      "diseases": {
+        "Хронические заболевания": ["бронхиальная астма", "сахарный диабет"]
+      },
+      "allergy": ["бисептол","цитрусовые","пылевой клещ", "шоколад"]
     },
     {
       "id": 2,
       "firstName": "Жора",
       "lastName": "Корвидол",
       "img": "https://raw.githubusercontent.com/3lement3/VH2/master/src/patients/img_0.png",
-      "mail": "tk@rt.ru"
+      "mail": "tk@rt.ru",
+      "age": "35 лет",
+      "lastVisit": "Последний раз на приеме была 13 апреля в 18:46",
+      "polis": "Полис №1111-2222-3333-4446",
+      "diseases": {
+        "Хронические заболевания": ["бронхиальная астма", "сахарный диабет"]
+      },
+      "allergy": ["бисептол","цитрусовые","пылевой клещ", "шоколад"]
     },
     {
       "id": 3,
       "firstName": "Мила",
       "lastName": "Корвидовна",
       "img": "https://raw.githubusercontent.com/3lement3/VH2/master/src/patients/img_1.png",
-      "mail": "мk@rt.ru"
+      "mail": "мk@rt.ru",
+      "age": "35 лет",
+      "lastVisit": "Последний раз на приеме была 14 апреля в 18:46",
+      "polis": "Полис №1111-2222-3333-4447",
+      "diseases": {
+        "Хронические заболевания": ["бронхиальная астма", "сахарный диабет"]
+      },
+      "allergy": ["бисептол","цитрусовые","пылевой клещ", "шоколад"]
     },
     {
       "id": 4,
       "firstName": "Юлия",
       "lastName": "Корвидовна",
       "img": "https://raw.githubusercontent.com/3lement3/VH2/master/src/patients/img_2.png",
-      "mail": "uk@rt.ru"
+      "mail": "uk@rt.ru",
+      "age": "35 лет",
+      "lastVisit": "Последний раз на приеме была 15 апреля в 18:46",
+      "polis": "Полис №1111-2222-3333-4448",
+      "diseases": {
+        "Хронические заболевания": ["бронхиальная астма", "сахарный диабет"]
+      },
+      "allergy": ["бисептол","цитрусовые","пылевой клещ", "шоколад"]
     },
     {
       "id": 5,
       "firstName": "Том",
       "lastName": "Корвидон",
       "img": "https://raw.githubusercontent.com/3lement3/VH2/master/src/patients/img_3.png",
-      "mail": "tk@rt.ru"
+      "mail": "tk@rt.ru",
+      "age": "35 лет",
+      "lastVisit": "Последний раз на приеме была 16 апреля в 18:46",
+      "polis": "Полис №1111-2222-3333-4449",
+      "diseases": {
+        "Хронические заболевания": ["бронхиальная астма", "сахарный диабет"]
+      },
+      "allergy": ["бисептол","цитрусовые","пылевой клещ", "шоколад"]
     },
     {
       "id": 6,
-      "firstName": "Грегорий",
+      "firstName": "Григорий",
       "lastName": "Корвидон",
       "img": "https://raw.githubusercontent.com/3lement3/VH2/master/src/patients/img_4.png",
-      "mail": "gk@rt.ru"
+      "mail": "gk@rt.ru",
+      "age": "35 лет",
+      "lastVisit": "Последний раз на приеме была 12 апреля в 18:46",
+      "polis": "Полис №1111-2222-3333-4410",
+      "diseases": {
+        "Хронические заболевания": ["бронхиальная астма", "сахарный диабет"]
+      },
+      "allergy": ["бисептол","цитрусовые","пылевой клещ", "шоколад"]
     },
     {
-      "id": 6,
-      "firstName": "Грегорий",
+      "id": 7,
+      "firstName": "Григорий",
       "lastName": "Корвидон",
       "img": "https://raw.githubusercontent.com/3lement3/VH2/master/src/patients/img_5.png",
-      "mail": "gk@rt.ru"
+      "mail": "gk@rt.ru",
+      "age": "35 лет",
+      "lastVisit": "Последний раз на приеме была 12 апреля в 18:46",
+      "polis": "Полис №1111-2222-3333-4444",
+      "diseases": {
+        "Хронические заболевания": ["бронхиальная астма", "сахарный диабет"]
+      },
+      "allergy": ["бисептол","цитрусовые","пылевой клещ", "шоколад"]
     }
   ],
   "cardAnalysis": [
@@ -90,6 +139,23 @@
       "purpose": "<200",
       "indications": "240мг/дл",
       "patientId": 5
+    }
+  ,
+    {
+      "id": 6,
+      "order": "№485-er2450",
+      "date": "03.05.2020, 12:00",
+      "purpose": "<200",
+      "indications": "240мг/дл",
+      "patientId": 6
+    },
+    {
+      "id": 7,
+      "order": "№485-er2450",
+      "date": "03.05.2020, 12:00",
+      "purpose": "<200",
+      "indications": "240мг/дл",
+      "patientId": 7
     }
   ]
 }
