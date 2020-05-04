@@ -157,5 +157,10 @@
       "indications": "240мг/дл",
       "patientId": 7
     }
-  ]
+  ],
+  "instruction": {
+    "id": 1,
+    "title": "Лучшее решение",
+    "img":""
+  }
 }
