@@ -6,8 +6,8 @@
       "lastName": "Корвидовна",
       "img": "https://raw.githubusercontent.com/3lement3/VH2/master/src/patients/img_00.png",
       "mail": "nk@world.ru",
-      "age": "35 лет",
-      "lastVisit": "Последний раз на приеме была 11 апреля в 18:46",
+      "age": "30 лет",
+      "lastVisit": "Последний раз на приеме была 5 апреля в 14:46",
       "polis": "Полис №1111-2222-3333-4445",
       "diseases": {
         "Хронические заболевания": [
@@ -27,9 +27,9 @@
       "firstName": "Жора",
       "lastName": "Корвидол",
       "img": "https://raw.githubusercontent.com/3lement3/VH2/master/src/patients/img_0.png",
-      "mail": "tk@world.ru",
-      "age": "35 лет",
-      "lastVisit": "Последний раз на приеме была 13 апреля в 18:46",
+      "mail": "gk@world.ru",
+      "age": "37 лет",
+      "lastVisit": "Последний раз на приеме был 4 апреля в 11:24",
       "polis": "Полис №1111-2222-3333-4446",
       "diseases": {
         "Хронические заболевания": [
@@ -47,11 +47,11 @@
     {
       "id": 3,
       "firstName": "Мила",
-      "lastName": "Корвидовна",
+      "lastName": "Шприцова",
       "img": "https://raw.githubusercontent.com/3lement3/VH2/master/src/patients/img_1.png",
-      "mail": "мk@world.ru",
-      "age": "35 лет",
-      "lastVisit": "Последний раз на приеме была 14 апреля в 18:46",
+      "mail": "мsh@world.ru",
+      "age": "30 лет",
+      "lastVisit": "Последний раз на приеме была 4 марта в 18:46",
       "polis": "Полис №1111-2222-3333-4447",
       "diseases": {
         "Хронические заболевания": [
@@ -69,11 +69,11 @@
     {
       "id": 4,
       "firstName": "Юлия",
-      "lastName": "Корвидовна",
+      "lastName": "Счастливая",
       "img": "https://raw.githubusercontent.com/3lement3/VH2/master/src/patients/img_2.png",
-      "mail": "uk@world.ru",
-      "age": "35 лет",
-      "lastVisit": "Последний раз на приеме была 15 апреля в 18:46",
+      "mail": "uh@world.ru",
+      "age": "29 лет",
+      "lastVisit": "Последний раз на приеме была 8 апреля в 18:02",
       "polis": "Полис №1111-2222-3333-4448",
       "diseases": {
         "Хронические заболевания": [
@@ -90,12 +90,12 @@
     },
     {
       "id": 5,
-      "firstName": "Том",
-      "lastName": "Корвидон",
+      "firstName": "Эдуард",
+      "lastName": "Сказкин",
       "img": "https://raw.githubusercontent.com/3lement3/VH2/master/src/patients/img_3.png",
-      "mail": "tk@world.ru",
-      "age": "35 лет",
-      "lastVisit": "Последний раз на приеме была 16 апреля в 18:46",
+      "mail": "es@world.ru",
+      "age": "27 лет",
+      "lastVisit": "Последний раз на приеме был 9 апреля в 13:21",
       "polis": "Полис №1111-2222-3333-4449",
       "diseases": {
         "Хронические заболевания": [
@@ -116,8 +116,8 @@
       "lastName": "Корвидон",
       "img": "https://raw.githubusercontent.com/3lement3/VH2/master/src/patients/img_4.png",
       "mail": "gk@world.ru",
-      "age": "35 лет",
-      "lastVisit": "Последний раз на приеме была 12 апреля в 18:46",
+      "age": "36 лет",
+      "lastVisit": "Последний раз на приеме был 3 апреля в 14:34",
       "polis": "Полис №1111-2222-3333-4410",
       "diseases": {
         "Хронические заболевания": [
@@ -135,11 +135,11 @@
     {
       "id": 7,
       "firstName": "Григорий",
-      "lastName": "Корвидон",
+      "lastName": "Таблеткин",
       "img": "https://raw.githubusercontent.com/3lement3/VH2/master/src/patients/img_5.png",
-      "mail": "gk@world.ru",
-      "age": "35 лет",
-      "lastVisit": "Последний раз на приеме была 12 апреля в 18:46",
+      "mail": "gt@world.ru",
+      "age": "47 лет",
+      "lastVisit": "Последний раз на приеме был 6 апреля в 13:46",
       "polis": "Полис №1111-2222-3333-4444",
       "diseases": {
         "Хронические заболевания": [
